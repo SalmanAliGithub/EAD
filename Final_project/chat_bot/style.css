@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #5c7f79;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,6 +8,7 @@ body {
     margin: 20px;
 }
 .chat-container {
+    width:600px;
     background: white;
     padding: 20px;
     border-radius: 10px;
